@@ -1,0 +1,17 @@
+
+{
+  "name": "inventory-data-management",
+  "version": "1.0.0",
+  "description": "Inventory and Data Management System using Node.js, Express and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
+
